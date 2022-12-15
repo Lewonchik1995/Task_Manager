@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iSGdAUb0gR0MozgLtNCG+p4Z579ckL+I+FYathXJKBUwlgJZHyBcBtKnq6Jh/CDiKcEoj7IgdLfZpMqlf+pETw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexeyProtsenko\\Desktop\\Основы алгоритмизации и программирования\\С#\\Task_Manager\\Task_Manager\\Task_Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexeyProtsenko\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\AlexeyProtsenko\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
